@@ -4,3 +4,5 @@ Ceci est ajout de nouvelle fonctionnalité
 
 Ceci est ma contribution.
 PLOP !
+
+Ceci est une nouvelle contribution
