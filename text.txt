@@ -1,6 +1,10 @@
+Moi j'écris n'importe où
+
 Ceci est du texte
 Je fais une petite modification
 Ceci est ajout de nouvelle fonctionnalité
 
 Ceci est ma contribution.
 PLOP !
+
+Je fais ce que je veux
