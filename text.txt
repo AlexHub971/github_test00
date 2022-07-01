@@ -1,10 +1,12 @@
-Moi j'écris n'importe où
+Moi j'ï¿½cris n'importe oï¿½
 
 Ceci est du texte
 Je fais une petite modification
-Ceci est ajout de nouvelle fonctionnalité
+Ceci est ajout de nouvelle fonctionnalitï¿½
 
 Ceci est ma contribution.
 PLOP !
 
 Je fais ce que je veux
+Ceci est ma contribution kevin.
+PLOP !
