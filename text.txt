@@ -7,8 +7,11 @@ Ceci est ajout de nouvelle fonctionnalit�
 Ceci est ma contribution.
 PLOP !
 
+Ceci est une nouvelle contribution
 Je fais ce que je veux
 Ceci est ma contribution kevin.
 PLOP !
 
 Alex a fait une branche
+Ceci est la contribution de Nicolas dans ma branche.
+ON VA SE RETROUVER à L'EAU
